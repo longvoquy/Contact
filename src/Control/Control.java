@@ -1,3 +1,8 @@
+package Control;
+
+import Data.Contact;
+import Menu.*;
+import Data.Method;
 import java.util.ArrayList;
 
 public class Control extends Menu<String> {

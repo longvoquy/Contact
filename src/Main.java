@@ -30,6 +30,8 @@
 //    }
 //}
 
+import Control.Control;
+
 public class Main {
 
     public static Control ct = new Control();
